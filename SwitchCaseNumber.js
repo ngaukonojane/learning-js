@@ -1,4 +1,4 @@
-var dayOfTheWeek = "Monday" 
+var dayOfTheWeek = "Tuesday" 
 switch(dayOfTheWeek){
   case "Monday":
   console.log("today is Monday")
